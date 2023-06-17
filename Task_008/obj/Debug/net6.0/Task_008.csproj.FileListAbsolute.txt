@@ -1,0 +1,15 @@
+C:\Users\Drbec\Desktop\GeekBreans Smirnova\С Sharp\Практика\ДЗ К Семинарам\Семинар 1 ДЗ\Tasks\Task_008\bin\Debug\net6.0\Task_008.exe
+C:\Users\Drbec\Desktop\GeekBreans Smirnova\С Sharp\Практика\ДЗ К Семинарам\Семинар 1 ДЗ\Tasks\Task_008\bin\Debug\net6.0\Task_008.deps.json
+C:\Users\Drbec\Desktop\GeekBreans Smirnova\С Sharp\Практика\ДЗ К Семинарам\Семинар 1 ДЗ\Tasks\Task_008\bin\Debug\net6.0\Task_008.runtimeconfig.json
+C:\Users\Drbec\Desktop\GeekBreans Smirnova\С Sharp\Практика\ДЗ К Семинарам\Семинар 1 ДЗ\Tasks\Task_008\bin\Debug\net6.0\Task_008.dll
+C:\Users\Drbec\Desktop\GeekBreans Smirnova\С Sharp\Практика\ДЗ К Семинарам\Семинар 1 ДЗ\Tasks\Task_008\bin\Debug\net6.0\Task_008.pdb
+C:\Users\Drbec\Desktop\GeekBreans Smirnova\С Sharp\Практика\ДЗ К Семинарам\Семинар 1 ДЗ\Tasks\Task_008\obj\Debug\net6.0\Task_008.csproj.AssemblyReference.cache
+C:\Users\Drbec\Desktop\GeekBreans Smirnova\С Sharp\Практика\ДЗ К Семинарам\Семинар 1 ДЗ\Tasks\Task_008\obj\Debug\net6.0\Task_008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Drbec\Desktop\GeekBreans Smirnova\С Sharp\Практика\ДЗ К Семинарам\Семинар 1 ДЗ\Tasks\Task_008\obj\Debug\net6.0\Task_008.AssemblyInfoInputs.cache
+C:\Users\Drbec\Desktop\GeekBreans Smirnova\С Sharp\Практика\ДЗ К Семинарам\Семинар 1 ДЗ\Tasks\Task_008\obj\Debug\net6.0\Task_008.AssemblyInfo.cs
+C:\Users\Drbec\Desktop\GeekBreans Smirnova\С Sharp\Практика\ДЗ К Семинарам\Семинар 1 ДЗ\Tasks\Task_008\obj\Debug\net6.0\Task_008.csproj.CoreCompileInputs.cache
+C:\Users\Drbec\Desktop\GeekBreans Smirnova\С Sharp\Практика\ДЗ К Семинарам\Семинар 1 ДЗ\Tasks\Task_008\obj\Debug\net6.0\Task_008.dll
+C:\Users\Drbec\Desktop\GeekBreans Smirnova\С Sharp\Практика\ДЗ К Семинарам\Семинар 1 ДЗ\Tasks\Task_008\obj\Debug\net6.0\refint\Task_008.dll
+C:\Users\Drbec\Desktop\GeekBreans Smirnova\С Sharp\Практика\ДЗ К Семинарам\Семинар 1 ДЗ\Tasks\Task_008\obj\Debug\net6.0\Task_008.pdb
+C:\Users\Drbec\Desktop\GeekBreans Smirnova\С Sharp\Практика\ДЗ К Семинарам\Семинар 1 ДЗ\Tasks\Task_008\obj\Debug\net6.0\Task_008.genruntimeconfig.cache
+C:\Users\Drbec\Desktop\GeekBreans Smirnova\С Sharp\Практика\ДЗ К Семинарам\Семинар 1 ДЗ\Tasks\Task_008\obj\Debug\net6.0\ref\Task_008.dll
